@@ -1,4 +1,3 @@
-# hello-world
-My first github project repository
-
+# learn create blog
+first learn create blog
 try commit action
